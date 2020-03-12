@@ -1,2 +1,2 @@
 # Kyogré
-🤖 The official Miku Nishio discord bot repo 🤖
+🤖 The official Kyogre Pokemon discord bot repo 🤖
