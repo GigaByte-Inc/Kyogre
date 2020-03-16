@@ -1,2 +1,2 @@
 # Kyogré
-🤖 The official Kyogre Pokemon discord bot repo 🤖
+🤖 The official Kyogre Pokemon module repo 🤖
